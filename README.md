@@ -23,7 +23,7 @@ Git
 Um ambiente virtual (recomendado)
 
 Instalação
-git clone https://github.com/seu_usuario/BookSwap.git
+git clone https://github.com/Jvitorr-macedo/API-Rest-BookSwap.git
 cd BookSwap
 
 2. Crie e ative um ambiente virtual
